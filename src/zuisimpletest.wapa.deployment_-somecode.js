@@ -1,0 +1,3 @@
+// Some JavaScript code.                                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                                               
+var hello = 'Hello SAPUI5'.                                                                                                                                                                                                                                    

@@ -1,0 +1,2 @@
+# Content negotiation rule for annotations.xml                                                                                                                                                                                                                 
+Content-Negotiation-Redirect = i18n.properties->i18n[_{language}].properties                                                                                                                                                                                   
